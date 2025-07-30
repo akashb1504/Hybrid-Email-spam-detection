@@ -41,8 +41,7 @@ Build a spam detection system that:
 ## 📁 Dataset
 
 - 190K+ Spam | Ham Email Dataset for Classification
-- Source: Kaggle Dataset Link
-
+- Source: [Kaggle](https://www.kaggle.com/datasets/meruvulikith/190k-spam-ham-email-dataset-for-classification)
 ---
 
 ## 📊 Evaluation Summary
